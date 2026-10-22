@@ -10,19 +10,6 @@
 - 💬 Ask me about **Data Analytics & Business Intelligence**
 - 📫 How to reach me: **your.email@example.com** *(replace with your actual email)*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" style="margin: 0 5px;"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" style="margin: 0 5px;"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/link/000000" width="40" height="40" alt="Portfolio" style="margin: 0 5px;"/>
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
