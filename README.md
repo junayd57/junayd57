@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Junaid D</h1>
 <h3 align="center">Business Intelligence Analyst @ T-Mobile</h3>
 
-<p align="center">
-  <!-- Optional: Add your GitHub username below to show profile views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 - 👯 I’m looking to collaborate on **Bridging Data & Business Outcomes**
 - 💬 Ask me about **Data Analytics & Business Intelligence**
-- 📫 How to reach me: **your.email@example.com** *(replace with your actual email)*
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
